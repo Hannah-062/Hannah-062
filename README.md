@@ -57,5 +57,5 @@ More projects coming soon...
 
 ---
 
- "Every expert was once a beginner."
+ "EVERY EXPERT WAS ONCE A BEGINNER."
 
