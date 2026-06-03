@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Hanna Mariam Shibu
 
-<!--
-**Hannah-062/Hannah-062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | B.Tech CSE Graduate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Professional Summary
+
+Computer Science and Engineering graduate passionate about software development and continuous learning. Currently building strong foundations in Python, Java, SQL, Git, and GitHub through hands-on projects and practical learning.
+
+Interested in Software Engineering, AI-powered applications, and creating technology solutions that make a real impact.
+
+---
+
+## 🛠 Tech Stack
+
+### Currently Learning
+
+* Python
+* Java
+* SQL
+* Git
+* GitHub
+
+### Familiar With
+
+* HTML
+* CSS
+* UI/UX Design Fundamentals
+
+---
+
+## 🎯 Learning Goals
+
+* Build real-world Python projects
+* Strengthen Java programming skills
+* Learn Oracle SQL fundamentals
+* Improve problem-solving abilities
+
+---
+
+## 📂 Projects
+
+### SignSpeak
+
+Real-Time Sign Language to Speech Converter (Final Year Project)
+
+More projects coming soon...
+
+---
+
+## 📫 Let's Connect
+
+* LinkedIn: linkedin.com/in/hanna-mariam-shibu
+* Email: shibuhannamariam@gmail.com
+* GitHub: github.com/Hannah-062
+
+---
+
+ "Every expert was once a beginner."
+
