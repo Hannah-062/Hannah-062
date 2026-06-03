@@ -6,9 +6,7 @@
 
 ## 👩‍💻 Professional Summary
 
-Computer Science and Engineering graduate passionate about software development and continuous learning. Currently building strong foundations in Python, Java, SQL, Git, and GitHub through hands-on projects and practical learning.
-
-Interested in Software Engineering, AI-powered applications, and creating technology solutions that make a real impact.
+Computer Science and Engineering graduate passionate about software development and continuous learning. Currently strengthening my skills in Python, Java, SQL, Git, and GitHub through hands-on projects and practical learning.
 
 ---
 
@@ -57,5 +55,5 @@ More projects coming soon...
 
 ---
 
- "EVERY EXPERT WAS ONCE A BEGINNER."
+ Every expert was once a beginner.
 
